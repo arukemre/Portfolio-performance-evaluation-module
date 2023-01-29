@@ -1,5 +1,4 @@
-# Portfolio-performance-evaluation-module
-Portfolio performance evaluation module towards Finance
+# Portfolio performance evaluation module towards Finance
 
 ![image](https://user-images.githubusercontent.com/64266044/215321584-d5a80728-728b-4fad-9e3f-e00e7b0bdbf7.png)
 
